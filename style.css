@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.head-section{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top:20px ;
+}
+.span{
+    color: orangered;
+}
+h6{
+ color: white;
+ text-align: center; 
+ 
+}
