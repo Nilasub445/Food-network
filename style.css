@@ -22,12 +22,15 @@ h6{
 }
 .flex-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     
 }
 .half-width{
     width: 50%;
     padding-left: 20px;
+}
+.h2-1{
+padding-top: 40px;
 }
 .food-button{
     background-image: linear-gradient(orange,tomato);
@@ -41,6 +44,7 @@ h6{
 .first-image-width{
     width: 60%;
     margin-left: 40px;
+    margin-top: 30px;
 }
 .div{
   background-image: url(images/shapes/7.png);
@@ -62,4 +66,58 @@ h3
     text-decoration: none;
     padding: 10px; 
     margin-top: 90px; 
+}
+.h{
+    text-align: center;
+}
+.p1{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.under-section{
+    margin-top:50px ;
+     margin-bottom: 100px;
+}
+.div-1{
+    width: 25%;
+    background-color: white;
+    float: left;
+    height: 300px;
+    margin-left: 150px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px grey;
+}
+.div-2{
+    width: 25%;
+    background-color :white;
+    float: left;
+    height: 300px;
+    margin-left: 40px;
+    box-shadow: 3px 3px 3px 3px grey;
+    border-radius: 5px;
+}
+.div-3{
+    width: 25%;
+    background-color: white;
+    float: left;
+    height: 300px;
+    margin-right: 100px;
+    margin-left: 40px;
+    box-shadow: 3px 3px 3px 3px grey;
+    border-radius: 5px;
+}
+
+.div-1-image{
+    width: 98%;
+    height: 180px;
+    float: left;
+    margin: 4px;
+    border-radius: 3px;
+}
+.under-h4{
+    padding-left: 10px;
+}
+.under-h4-p{
+padding-left: 10px;
+font-size: 12px;
 }
