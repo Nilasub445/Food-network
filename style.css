@@ -22,6 +22,7 @@ h6{
 }
 .flex-container{
     display: flex;
+    margin-bottom: 150px;
     
 }
 .half-width{
@@ -32,11 +33,33 @@ h6{
     background-image: linear-gradient(orange,tomato);
     color: white;
     font-size: 12px;
-    border-radius: 10px;
+    border-radius: 20px;
     text-decoration: none;
     padding: 10px;
     
 }
 .first-image-width{
     width: 60%;
+    margin-left: 40px;
+}
+.div{
+  background-image: url(images/shapes/7.png);
+
+}
+.second-image-width{
+    width: 40%;
+    margin-left: 80px;
+}
+h3
+{
+    padding-top: 50px;
+}
+.contact-button{
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-size: 12px;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px; 
+    margin-top: 90px; 
 }
